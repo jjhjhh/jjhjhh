@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently learning **security**
+- 🔭 I’m learning **security**
 - 🌱 I’m interested in CTF and web hacking. (Actually, I like all fields)
   
 <br>

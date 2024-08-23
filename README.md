@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m learning **security**
-- 🌱 I’m interested in CTF and web hacking. (Actually, I like all fields)
+- 🔭 정보 보안을 공부합니다.
+- 🌱 이론 정리, 기법 실습, CTF 풀이 등을 업로드합니다 
   
 <br>
 

@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-- 🔭 정보 보안을 공부합니다.
-  
 <br>
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +15,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunhayeo03)](https://solved.ac/eunhayeo03/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhjhh)](https://github.com/anuraghazra/github-readme-stats)
 
